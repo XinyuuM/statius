@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Public Status',
+  SiteName: 'Socomicnet Status',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -12,7 +12,7 @@ window.Config = {
   ],
 
   // 日志天数
-  CountDays: 90,
+  CountDays: 30,
 
   // 是否显示检测站点的链接
   ShowLink: true,
@@ -21,14 +21,14 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: 'http://www.socomic.net/'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      text: 'BILI',
+      url: 'https://space.bilibili.com/142202292		'
     },
     {
-      text: 'Blog',
+      text: 'AIFADIAN',
       url: 'https://abo.xyz/'
     },
   ],
