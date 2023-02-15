@@ -15,21 +15,21 @@ window.Config = {
   CountDays: 90,
 
   // 是否显示检测站点的链接
-  ShowLink: true,
+  ShowLink: flase,
 
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'http://www.socomic.net/'
+      text: 'API',
+      url: 'http://project.socomic.net/mikufuns/api/'
     },
     {
-      text: 'BILI',
+      text: '哔哩哔哩',
       url: 'https://space.bilibili.com/142202292		'
     },
     {
-      text: 'AIFADIAN',
-      url: 'https://abo.xyz/'
+      text: '爱发电',
+      url: 'https://afdian.net/a/xinyuu'
     },
   ],
 };
