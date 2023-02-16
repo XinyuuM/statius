@@ -24,12 +24,12 @@ window.Config = {
       url: 'http://www.socomic.net/'
     },
     {
-      text: 'BILI',
+      text: '哔哩哔哩',
       url: 'https://space.bilibili.com/142202292		'
     },
     {
       text: '爱发电',
-      url: 'https://afadian.net/xinyuu'
+      url: 'https://afdian.net/xinyuu'
     },
   ],
 };
