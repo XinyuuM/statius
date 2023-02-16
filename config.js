@@ -20,16 +20,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'API',
-      url: 'http://project.socomic.net/mikufuns/api/'
+      text: 'Homepage',
+      url: 'http://www.socomic.net/'
     },
     {
-      text: '哔哩哔哩',
-      url:'https://space.bilibili.com/142202292'		'
+      text: 'BILI',
+      url: 'https://space.bilibili.com/142202292		'
     },
     {
       text: '爱发电',
-      url: 'https://afdian.net/a/xinyuu'
+      url: 'https://afadian.net/xinyuu'
     },
   ],
 };
